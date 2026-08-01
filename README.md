@@ -38,7 +38,7 @@ pip install -r web-research-agent\requirements.txt
 3. Create a `.env` file in `web-research-agent/` with any required API keys (for example):
 
 ```
-OPENAI_API_KEY=your_key_here
+GROQ_API_KEY=api_key_here
 ```
 
 4. Run the web research agent:

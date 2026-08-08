@@ -1,0 +1,4 @@
+python-dotenv>=1.0.1
+langchain-community>=0.2.11
+langchain-groq>=0.1.9
+SQLAlchemy>=2.0.0
